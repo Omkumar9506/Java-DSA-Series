@@ -23,7 +23,7 @@ public class Basic {
     }
 
     static void arrayCreationWithNew(){
-        int arr[] = new int[4];
+        int []arr = new int[4];
         arr[0] = 10;
         arr[1] = 20;
         arr[2] = 30;

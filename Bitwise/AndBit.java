@@ -1,4 +1,3 @@
-package Bitwise;
 
 public class AndBit {
     static void main(String args[]){

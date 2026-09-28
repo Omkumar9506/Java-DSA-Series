@@ -1,4 +1,3 @@
-package Bitwise;
 
 public class XORBit {
     public static void main(String[] args) {
